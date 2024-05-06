@@ -1,3 +1,28 @@
 * {
     background-color: rgb(241, 229, 229);
+    text-align: center;
+}
+
+h1, h2, h3, h4, h5, h5 {
+    font-weight: 700;
+}
+
+ul, ol, li {
+    background-color: rgb(204, 186, 186);
+}
+
+ul, ol {
+    width: 60%;
+}
+
+ul {
+    list-style: none;
+}
+
+ol li {
+    text-align: left;
+}
+
+#recipe-name {
+    color:rgb(6, 58, 41)    ;
 }
